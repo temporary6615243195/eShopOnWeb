@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-temporary6615243195
   LOCATION: westus
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: cf87fafd-5fe9-44d8-8187-29c312baf716
+  SUBSCRIPTION-ID: /subscriptions/cf87fafd-5fe9-44d8-8187-29c312baf716
   WEBAPP-NAME: eshoponweb-webapp-BLUEBANANA
 
 
